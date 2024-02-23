@@ -4,6 +4,10 @@
 
   The purpose of this project is to streamline the process of creating a README file in order to gain efficiency in programming
 
+  Link to video of application working: https://drive.google.com/file/d/1ds5NF_jHB-Zyv4ALSlSNhi44CTVQrncq/view
+  
+  Link to Project: https://russellbooth.github.io/README-generator/
+
   ## Table of Contents
 
   - [Installation](#installation)
@@ -58,3 +62,8 @@
   If you have any questions feel free to reach out and contact me via email at: russellbooth121@gmail.com.
   Or follow other projects on GitHub at https://github.com/RussellBooth.
 
+  ## Acknowledgments/Credits
+
+    The UC Davis Coding Bootcamp. For hosting an amazing program with very dedicated staff and support
+    The started code used in this program was provided by the UC Davis Coding Bootcamp, in which was built off to build a functional program.
+    My wonderful instructor and TA, Alex Kauffman and Zach Warner.
